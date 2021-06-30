@@ -2,7 +2,7 @@
 
 ## 💻 Demo 
 
-![tenor](https://user-images.githubusercontent.com/68494604/123945472-ce688480-d9bb-11eb-9b7f-fe5de63e1940.gif)
+![Screenshot (193)](https://user-images.githubusercontent.com/68494604/123946140-81d17900-d9bc-11eb-83c4-cc4f2dbf589f.png)
 
 <p align="center">
   <img alt="Sloan, the sloth mascot" width="250px" src="https://user-images.githubusercontent.com/68494604/120436157-39627380-c39c-11eb-89cf-58089fb1032d.gif">
